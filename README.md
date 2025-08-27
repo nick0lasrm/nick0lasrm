@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=1000&color=FFFFFF&background=6AF9FF00&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+sou+o+Nickolas+Machado!)](https://git.io/typing-svg)
 
-Sou Desenvolvedor Web com foco na criação de soluções completas e eficientes. Atualmente no 1º semestre do curso de Análise e Desenvolvimento de Sistemas pelo SENAI, já possuo experiência prática na entrega de um projeto web completo, onde fui responsável pelo desenvolvimento da interface responsiva em HTML, CSS e JAVASCRIPT e pela implementação de um sistema de contato seguro com PHP no Back-End.
+Desenvolvedor com foco na criação de soluções completas e eficientes. Atualmente no 2º semestre do curso de Análise e Desenvolvimento de Sistemas pelo SENAI, já possuo experiência prática na entrega de um projeto web completo, onde fui responsável pelo desenvolvimento da interface responsiva em HTML, CSS e JAVASCRIPT e pela implementação de um sistema de contato seguro com PHP no Back-End.
 
 Busco uma oportunidade como Estagiário ou Desenvolvedor Júnior para aplicar minhas habilidades, colaborar em projetos desafiadores e impulsionar o crescimento da equipe e da empresa.
 <br>
