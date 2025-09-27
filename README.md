@@ -32,7 +32,7 @@ Busco uma oportunidade como Estagiário ou Desenvolvedor Júnior para aplicar me
 
 ## 📊 Estatísticas
 
-<div>
+<div style="display: inline-block">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nick0lasrm&show_icons=true&icon_color=fff&bg_color=000&theme=dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick0lasrm&show_icons=true&icon_color=fff&bg_color=000&theme=dark&layout=compact"/>
 </div>
