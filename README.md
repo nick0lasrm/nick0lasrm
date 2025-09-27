@@ -33,5 +33,5 @@ Busco uma oportunidade como Estagiário ou Desenvolvedor Júnior para aplicar mi
 <br>
 
 ## 🛠️ Principais Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nick0lasrm&repo=Site-ADG-S.I&icon_color=fff&bg_color=000&theme=dark)](https://github.com/nick0lasrm/Site-ADG-S.I/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nick0lasrm&repo=project-site-adg-solucoes-industriais&icon_color=fff&bg_color=000&theme=dark)](https://github.com/nick0lasrm/project-site-adg-solucoes-industriais/)
 
